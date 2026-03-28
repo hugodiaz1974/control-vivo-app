@@ -1,0 +1,1187 @@
+﻿Propuesta integral para la empresa de gestiÃ³n de riesgos y cumplimiento
+1. Lectura estratÃ©gica del negocio
+Contexto Actual
+. 
+El 99.5Â % de las empresas de AmÃ©ricaÂ Latina son microâ€‘, pequeÃ±as y medianas
+[1]
+. Muchas de estas organizaciones dependen de hojas de cÃ¡lculo dispersas para tareas crÃ­ticas. 
+Un estudio de Forrester 
+Consulting
+ revela que elÂ 88Â % de los encuestados usa mÃ¡s deÂ 100 hojas de cÃ¡lculo complejas para procesos de negocio
+[2]
+ y que casi la mitad de las compaÃ±Ã­as sigue confiando en Excel para auditorÃ­a y controles
+[3]
+. 
+Existe un enorme vacÃ­o en elÂ 
+middle-market
+Â (empresas medianas en 
+LatAm
+). Estas empresas estÃ¡n cada vez mÃ¡s presionadas por regulaciones (SAGRILAFT, PTEE, 
+ISOs
+, SuperSociedades) pero las soluciones de software tradicionales (como SAP GRC, 
+MetricStream
+, Archer) son impagables, requieren aÃ±os de implementaciÃ³n y estÃ¡n sobredimensionadas. Hoy, la gestiÃ³n de riesgos en el 
+middle-market
+ se sostiene con un castillo de naipes:Â 
+Excel, correos electrÃ³nicos y carpetas de SharePoint
+.
+La falta de herramientas estructuradas genera decisiones con datos errÃ³neos
+[4]
+, exposiciÃ³n a riesgos operacionales y reputacionales, y dificulta cumplir normas como ISOÂ 37301 (sistemas de gestiÃ³n de compliance) e ISOÂ 22301 (continuidad del negocio). 
+Para empresas medianas, implantar un programa de gestiÃ³n de riesgos (ERM) reduce sorpresas financieras y operativas y mejora el rendimiento
+[5]
+, pero muchas pymes no tienen iniciativas formales por restricciones de costo y escasez de profesionales especializados
+[6]
+.
+TracciÃ³n en Colombia y LatinoamÃ©rica
+. 
+Sectores regulados (financiero, energÃ©tico, salud, fintech) estÃ¡n adoptando estÃ¡ndares internacionales. La certificaciÃ³n ISOÂ 37301 promueve la Ã©tica, reduce riesgos de incumplimiento y brinda ventaja competitiva
+[7]
+, y la norma ISOÂ 22301 mejora la resiliencia operativa, reduce interrupciones y aumenta la confianza de las partes interesadas
+[8]
+. 
+Muchas medianas empresas desean profesionalizar sus procesos sin contratar un â€œejÃ©rcito de consultoresâ€. Una soluciÃ³n modular que combine software y acompaÃ±amiento experto atrae porque centraliza la informaciÃ³n, facilita el cumplimiento y mantiene la flexibilidad de Excel al permitir exportar datos.
+El tejido empresarial colombiano es fundamentalmente de medianas empresas. La regulaciÃ³n exige cada vez mÃ¡s "Demostrar la debida diligencia", no solo tener un manual. Un software que pase de laÂ 
+intenciÃ³n
+Â a laÂ 
+evidencia y trazabilidad
+Â resuelve un "dolor de muela" regulatorio que los gerentes generales y juntas directivas ya estÃ¡n sintiendo (las multas son reales).
+2. Propuesta de valor
+Promesa Principal:
+Â 
+"Profesionalizamos la prevenciÃ³n y el cumplimiento normativo en menos de 30 dÃ­as. Centralice sus matrices de riesgo, controles y planes de acciÃ³n en un solo motor, respaldado por metodologÃ­a experta."
+â€œMotor de Riesgosâ€
+ es una plataforma modular y premium diseÃ±ada para empresas medianas que necesitan profesionalizar la gestiÃ³n de riesgos, cumplimiento y control interno sin perder la flexibilidad de sus procesos actuales. Centraliza riesgos, controles, acciones y mÃ©tricas en un solo lugar, automatiza diagnÃ³sticos y reportes, y se complementa con consultorÃ­a experta para implantar metodologÃ­as internacionales (COSO, ISOÂ 37301, ISOÂ 22301).
+Nuestros Diferenciadores:
+Frente a Consultores Tradicionales:
+Â El consultor tradicional te deja un PDF o un Excel inerte y se va. Nosotros dejamos un procesoÂ 
+vivo
+, automatizado y trazable en nuestro software.Â 
+Se vende la aspirina (solucionar el 
+compliance
+) y la vitamina (la herramienta para mantenerlo).
+Frente a Software Masivo / Enterprise:
+Â No te entregamos un software vacÃ­o para que tÃº adivines cÃ³mo parametrizarlo. Lo entregamos 
+pre-configurado
+ con nuestro ADN experto de 25 aÃ±os en riesgos.
+Frente a Excel + Correo:
+Â Aseguramos la trazabilidad (logs inmutables), recordatorios automÃ¡ticos y reportes listos para la junta directiva a un clic. Nada se pierde, todo se audita.
+Diferenciadores
+Aspecto
+DiferenciaciÃ³n
+Boutique vs. consultores tradicionales
+Combinamos software y metodologÃ­a: el cliente obtiene una herramienta que institucionaliza la gestiÃ³n en lugar de depender solo de hojas de cÃ¡lculo y consultores. La metodologÃ­a se sustenta en estÃ¡ndares reconocidos (ISOÂ 37301, ISOÂ 22301, COSO) que mejoran la confianza y el cumplimiento
+[7]
+[8]
+.
+PersonalizaciÃ³n vs. software masivo
+Muchos productos de GRC estÃ¡n pensados para grandes corporaciones. Nuestro enfoque modular permite comenzar con un nÃºcleo pequeÃ±o (riesgos, controles y planes de acciÃ³n) e ir incorporando capacidades segÃºn la madurez del cliente. Soportamos exportaciÃ³n/importaciÃ³n desde Excel para facilitar adopciÃ³n gradual.
+Eficiencia vs. Excel y correo
+Excel carece de controles y trazabilidad; casi la mitad de las empresas usa Excel para auditorÃ­a y controles
+[3]
+. Nuestra soluciÃ³n mantiene la familiaridad de tablas, pero agrega registro de cambios, parametrizaciÃ³n de riesgos y alertas automatizadas, evitando errores y pÃ©rdidas de informaciÃ³n.
+AcompaÃ±amiento experto
+Hugo aporta 25Â aÃ±os en desarrollo de soluciones financieras; Carolina aporta 25Â aÃ±os en gestiÃ³n de riesgos y control interno. La empresa no solo vende licencias: ofrece diagnÃ³sticos, implementaciÃ³n y capacitaciÃ³n para asegurar que el cliente adopte la cultura de riesgos
+[9]
+.
+Razones para elegirnos
+. Un cliente nos escogerÃ¡ por la combinaciÃ³n de tecnologÃ­a y conocimiento local. A diferencia de consultores tradicionales, dejamos capacidades instaladas y trazables. A diferencia de software genÃ©rico, no imponemos procesos inflexibles; la modularidad y exportaciÃ³n a Excel facilitan el uso. Frente a Excel y correo, ofrecemos trazabilidad, alertas y reportes automÃ¡ticos que reducen la exposiciÃ³n a errores y mejoran la eficiencia
+[10]
+.
+3. Nicho exacto e 
+ICP
+(
+Ideal 
+Customer
+Profile
+)
+Nicho inicial recomendado
+. 
+Empresas medianas en Colombia (â‰ˆ50â€“500 empleados) que ya tienen un responsable de cumplimiento o riesgo, operan en sectores regulados (financiero cooperativo, fintechs emergentes, seguros, energÃ­a, manufactura crÃ­tica) y gestionan riesgos y controles de forma manual. Estas organizaciones reconocen la necesidad de pasar de Excel a una herramienta mÃ¡s 
+estructurada pero no pueden invertir en plataformas corporativas multimillonarias.
+Empresas delÂ 
+middle-market
+Â (facturaciÃ³n de $10M a $50M USD) en Colombia que recientemente (Ãºltimos 1 a 3 aÃ±os) nombraron a un Oficial de Cumplimiento, LÃ­der de Control Interno o Auditor, y que estÃ¡n ahogados administrativamente operando matrices de Excel.
+Cliente ideal (ICP)
+Rol:
+ oficial de cumplimiento, auditor interno o lÃ­der de control y riesgos. Tiene experiencia tÃ©cnica moderada y autoridad para impulsar cambios. Busca profesionalizar la gestiÃ³n, cumplir regulaciones y presentar informes a junta directiva.
+Dolores:
+ exceso de hojas de cÃ¡lculo y correos dispersos; dificultades para rastrear acciones correctivas; falta de trazabilidad de quiÃ©n hace quÃ©; dificultad para demostrar cumplimiento ante entidades regulatorias; presiÃ³n para implementar normas como ISOÂ 37301 o ISOÂ 22301 pero sin recursos para proyectos costosos.
+Comportamientos:
+ estÃ¡ dispuesto a pagar por soluciones que simplifiquen su vida, valora la asesorÃ­a experta y la personalizaciÃ³n, y requiere soporte en espaÃ±ol y conocimiento del contexto colombiano.
+PriorizaciÃ³n de sectores
+:
+Cooperativas financieras y 
+fintechs
+ reguladas
+: estÃ¡n sujetas a requisitos de auditorÃ­a y compliance; no tienen presupuesto para suites globales.
+Cooperativas y Sector Solidario (No Bancos Tier 1):
+Â  EstÃ¡n regulados por la 
+SuperSolidaria
+, tienen presupuestos 
+moderados
+ pero obligaciÃ³n estricta de cumplimiento.
+Empresas de servicios con alto riesgo reputacional
+: 
+oil
+Â &Â 
+gases medianos
+, infraestructura, salud.
+Organizaciones de economÃ­a solidaria y entidades pÃºblicas descentralizadas
+.
+Segmentos a descartar inicialmente
+. Grandes bancos y multinacionales ya disponen de plataformas de GRC avanzadas y contratos con consultoras globales; competir allÃ­ desgastarÃ­a recursos. Microempresas sin oficial de cumplimiento carecen de presupuesto. Empresas totalmente desreguladas (p.Â ej., startups de consumo) no sienten urgencia por adoptar estos controles.
+4. Arquitectura de negocio
+La empresa se concibe como 
+â€œproducto + servicioâ€
+. La arquitectura puede representarse con los siguientes elementos:
+Propuesta de valor:
+ Plataforma modular de gestiÃ³n de riesgos y cumplimiento con acompaÃ±amiento experto.
+Nicho/ICP:
+ Medianas empresas reguladas que gestionan riesgos manualmente.
+Oferta principal:
+ SuscripciÃ³n anual a mÃ³dulos de software (motor de riesgos, control y planes de acciÃ³n, indicadores clave). Incluye soporte bÃ¡sico.
+Oferta secundaria:
+ Servicios profesionales â€“ diagnÃ³sticos de madurez y cumplimiento, implementaciÃ³n y parametrizaciÃ³n, capacitaciÃ³n, acompaÃ±amiento de planes de acciÃ³n. Estos servicios generan ingresos por proyecto y se venden como paquetes iniciales o consultorÃ­as recurrentes.
+Producto:
+ Plataforma SaaS multiempresa. MÃ³dulos: registro de procesos y riesgos, matriz RAM parametrizable, planes de acciÃ³n, indicadores (KRIs y KPIs), evidencias y trazabilidad, reportes ejecutivos, calendarios de obligaciones. Los clientes seleccionan quÃ© mÃ³dulos activar.
+Servicio:
+ ConsultorÃ­a para diseÃ±ar la metodologÃ­a, cargar datos iniciales, ejecutar diagnÃ³sticos y entrenar usuarios. Se ofrece diagnÃ³stico ISOÂ 37301/22301 que genera anÃ¡lisis de brechas y hoja de ruta. El servicio continÃºa con soporte funcional y actualizaciÃ³n de la normativa.
+ImplementaciÃ³n:
+ Se vende como proyecto de 4â€“8 semanas donde se parametrizan los mÃ³dulos seleccionados, se migran hojas de cÃ¡lculo (sin descartar Excel) y se capacita a usuarios. Los costos de implementaciÃ³n dependen del nÃºmero de procesos y usuarios.
+Soporte y acompaÃ±amiento:
+ Soporte tÃ©cnico (configuraciÃ³n, incidencias) y soporte funcional (resoluciÃ³n de dudas, actualizaciones normativas). Para empresas con pocos recursos, se ofrece acompaÃ±amiento mensual que incluye revisiÃ³n de KRIs y reuniones consultivas.
+Flujo de ingresos:
+DiagnÃ³stico inicial (tarifa fija).
+Proyecto de implementaciÃ³n y parametrizaciÃ³n (tarifa por alcance).
+SuscripciÃ³n por mÃ³dulo (mensual/anual, con descuentos por pago anual).
+Servicios recurrentes (acompaÃ±amiento y actualizaciones) como porcentaje de la suscripciÃ³n.
+Oferta 
+One
+-Off (ImplementaciÃ³n Consultiva - "El 
+Setup
+"):
+Â Cobro inicial consultivo por entender sus procesos actuales, migrar su Excel a su sistema y dejarles la "casa ordenada". Esto capitaliza sus 25 aÃ±os de experiencia, justifica un 
+ticket
+ alto inicial y alivia la presiÃ³n de caja de Hugo.
+Oferta Recurrente (Software como Servicio):
+Â SuscripciÃ³n mensual/anual por el acceso continuo, hosting, evoluciÃ³n del "Motor" y soporte tÃ©cnico.
+Upsell
+ (AcompaÃ±amiento Experto):
+Â Un paquete de horas o membresÃ­a para sentarse en sus comitÃ©s trimestrales de riesgos o interpretar cambios regulatorios complejos.
+PriorizaciÃ³n del portafolio
+Se evaluaron los trece mÃ³dulos solicitados considerando el valor para el cliente, urgencia, facilidad de venta, complejidad tÃ©cnica, tiempo de construcciÃ³n, posibilidad de piloto y diferenciaciÃ³n. Los resultados se resumen a continuaciÃ³n:
+MÃ³dulo
+ClasificaciÃ³n
+JustificaciÃ³n
+1. DiagnÃ³sticos de madurez y cumplimiento
+(Se puede suplir con formularios simples temporalmente. No programar de cero todavÃ­a).
+Segunda fase
+(A partir del Mes 6, una vez haya clientes base)
+Valioso para consultorÃ­a y venta, pero se puede realizar manualmente al principio. Es intensivo en contenido normativo y requiere algoritmos de scoring; puede ofrecerse inicialmente como servicio manual y automatizarse mÃ¡s adelante.
+2. Matriz de riesgos y controles por procesos
+(La matriz base relacional).
+MVP
+(Construir en los primeros 90 dÃ­as)
+Â 
+Esta es la espina dorsal. Si esto no estÃ¡, no hay sistema.
+Es el nÃºcleo de la gestiÃ³n de riesgos y la principal necesidad del cliente. Permite estructurar procesos, identificar fallas, aplicar segregaciÃ³n de funciones y registrar riesgos/eventos/ca
+u
+sas. Su desarrollo es tÃ©cnicamente factible y de alto valor.
+3. MatrizÂ RAM parametrizable (probabilidad Ã— consecuencia)
+MVP
+(
+El MVP debe tener una matriz estÃ¡ndar, no se compliquen parametrizando 
+infinitamente al principio).
+Indispensable para valorar riesgos. Debe permitir definir tipos de impacto (financiero, reputacional, legal) y escalas; su parametrizaciÃ³n no es 
+compleja.
+4. Planes de acciÃ³n y tratamiento
+(Seguimiento, responsables y fechado. "Sin planes, la gestiÃ³n de riesgos no existe").
+MVP
+Vincular riesgos con planes de mitigaciÃ³n y seguimiento tipo proyecto aporta valor inmediato y se alinea con la recomendaciÃ³n de generar planes de mitigaciÃ³n
+[11]
+.
+5. GestiÃ³n de KRIs/KPIs y 
+alertas
+(
+Alertas cualitativas o simples. La analÃ­tica compleja requiere bases consolidadas).
+Segunda fase temprana
+Los KRIs proporcionan advertencias tempranas de exposiciÃ³n
+[12]
+ y apoyan decisiones basadas en datos
+[13]
+. Sin embargo, su implementaciÃ³n requiere integraciones y dashboards; puede aÃ±adirse despuÃ©s del MVP.
+6. Calendario 
+regulatorio
+(
+Espectacular detonante de venta: alertas tempranas que evitan multas).
+MVP
+Aporta valor a funcionarios de cumplimiento (vencimientos, obligaciones), pero se puede usar un calendario externo al inicio.
+7. Evidencias y trazabilidad
+(Logs de cambios obligatorios para los auditores).
+MVP
+La trazabilidad y los registros de cambios son esenciales para la confianza y el cumplimiento; Excel carece de estos controles
+[3]
+.
+8. Reportes ejecutivos
+MVP
+Requeridos para presentar informaciÃ³n a comitÃ©s y juntas; deben generarse en formatos claros (tableros y exportables a PPT o PDF).
+9. GestiÃ³n de 
+terceros
+(
+Esto equivale a un nuevo producto de software que luego exige integraciones a 
+APIs
+ internacionales).
+Fase 
+avanzada
+(
+AÃ±o 2+)
+Requiere informaciÃ³n externa y due diligence; el mercado inicial puede operar sin ello. Se puede explorar como mÃ³dulo premium despuÃ©s de validar la base.
+10. MÃ³dulo de 
+incidentes/denuncias
+:
+Â (Hay opciones gratuitas u open-
+source
+ excelentes para esto, no reinventen la rueda; en Ãºltima instancia, vendan una integraciÃ³n).
+Descartar al 
+inicio
+Existen plataformas 
+especializadas; incluirlo distraerÃ­a el foco y podrÃ­a generar riesgos legales.
+11. MÃ³dulo de continuidad del negocio
+Fase avanzada
+La norma ISOÂ 22301 implica anÃ¡lisis BIA, riesgos y planes. Es complejo y requiere metodologÃ­as que pueden desarrollarse despuÃ©s de validar el core.
+12. Tablero 
+ejecutivo
+(
+Eviten un motor hiper visual al iniciar, es extremadamente costoso programarlo).
+MVP
+Un tablero bÃ¡sico integrado con el mÃ³dulo de reportes permite visualizar riesgos crÃ­ticos, estados de planes y alertas para la direcciÃ³n.
+13. Monitoreos preventivos y reportes 
+preventivos
+(
+Solo carga manual de listas o estados)
+Fase avanzada o separar como servicio
+Incluye mÃºltiples rutinas (listas restrictivas, conflictos de interÃ©s, donaciones, pagos a PEPs). Su alcance es amplio y requiere integraciones externas; se sugiere ofrecerlo como servicio adicional o alianza con proveedores especializados.
+6. DiseÃ±o del MVP
+Problema que resuelve
+. El MVP centraliza la informaciÃ³n que hoy se gestiona en hojas de cÃ¡lculo dispersas y correos, facilitando registrar procesos, identificar riesgos, valorar impactos, asignar controles y planes de acciÃ³n, generar reportes y asegurar trazabilidad. Atiende la necesidad de las empresas medianas de implementar un ERM simple y efectivo para reducir sorpresas financieras y operativas
+[5]
+.
+Mi junta me pide evidencias, los dueÃ±os de los procesos olvidan sus tareas, y mi Excel de riesgos ya es ingobernable o tiene versiones conflictivas."
+Usuarios:
+Admin
+ (Oficial de Cumplimiento
+/Riesgos
+ / PMO):
+Â Parametriza, 
+administran matrices, definen lineamientos y criterios, 
+crea usuarios, interviene todas las matrices.
+Ejecutor (DueÃ±o de proceso/Gestor):
+Â Recibe una alerta, entra al sistema, sube el PDF de evidencia ("PÃ³liza renovada"), marca "OK" y sale en 1 minuto.
+registran riesgos y ejecutan planes.
+* Gerencia y junta (visualizan tableros y reportes).
+Funcionalidades mÃ­nimas
+:
+Registro de procesos y riesgos
+: cargar procesos y subprocesos, documentar eventosâ€‘causaâ€‘consecuencia, asociar controles (quÃ©, cÃ³mo, cuÃ¡ndo, 
+quien, que hacer en caso de desviaciones, 
+evidencia).
+Matriz RAM parametrizable
+: definir escalas de probabilidad y consecuencia ajustables por tipo de impacto (financiero, reputacional, legal
+, ambiental, continuidad del negocio, entre otros
+). Calcular nivel de riesgo inherente y residual.
+Planes de acciÃ³n
+: crear acciones correctivas/preventivas vinculadas a riesgos, con responsables, fechas, estados, gantt simple y recordatorios. Basado en la recomendaciÃ³n de que los planes de mitigaciÃ³n incluyan acciones, fechas y responsables
+[11]
+.
+Trazabilidad y evidencias
+: registro de cambios, bitÃ¡cora de comentarios, adjuntos, gestiÃ³n de versiones para riesgos y planes. Esta funcionalidad cubre la necesidad de logs y registros de auditorÃ­a que las hojas de cÃ¡lculo no ofrecen
+[3]
+.
+Reportes ejecutivos y tablero
+: grÃ¡ficos de matriz de riesgos, listas de planes vencidos, indicadores bÃ¡sicos y exportaciÃ³n a PDF/PPT.
+GestiÃ³n de usuarios y roles
+: perfiles (administrador, editor, lector), permisos por mÃ³dulo y por proceso.
+Datos necesarios
+: listado de procesos, descripciones de riesgos, causas, consecuencias, controles existentes, calificaciones de probabilidad y consecuencias, responsables y fechas de planes, usuarios y roles.
+Reportes mÃ­nimos
+: matriz de riesgos por proceso, ranking de riesgos mÃ¡s crÃ­ticos, estado de planes, reporte de controles faltantes, exportaciÃ³n de datos a Excel para anÃ¡lisis adicional.
+Experiencia de usuario
+: interfaz web responsiva con navegaciÃ³n por pestaÃ±as: 
+Procesos
+, 
+Riesgos
+, 
+Planes
+, 
+Reportes
+. Uso de tablas editables similares a Excel para facilitar la adopciÃ³n. Filtros, bÃºsqueda y exportaciÃ³n con un clic. Alertas por correo y en la aplicaciÃ³n para planes prÃ³ximos a vencer.
+ConstrucciÃ³n simple y robusta
+. 
+ConstrucciÃ³n TecnolÃ³gica (Low Code HÃ­brido):
+Â Dada la experiencia de Hugo en bases de datos pesadas (COBOL/Financiero) y el tiempo limitado, se sugiere unÂ 
+Low Code HÃ­brido
+. Es rÃ¡pido para interfaces web, pero con una capa de datos muy madura.
+Una
+ plataforma 
+lowâ€‘code
+/hÃ­brida
+ que permita construir formularios, workflows y reportes rÃ¡pidamente (p.Â ej., Retool, Bubble, Zoho Creator). AsÃ­ se lanza el piloto en pocas semanas, se obtiene retroalimentaciÃ³n y se valida el modelo comercial. A medida que se confirme tracciÃ³n, se migrarÃ¡ a un desarrollo propio con arquitectura multiempresa. La infraestructura debe ser multiâ€‘tenant para compartir recursos, simplificar actualizaciones y reducir costos: en una aplicaciÃ³n multiâ€‘tenant un solo nÃºcleo de software sirve a mÃºltiples clientes, actualizaciones se realizan una sola vez y cada inquilino tiene sus datos aislados
+[14]
+. Esto permite escalar y hacer upgrades sin afectar a cada cliente individual
+[15]
+.
+Planes de AcciÃ³n y Recordatorios:
+LÃ³gica de Negocio:
+Â Al identificar fallas, se detona un Plan con 
+sub Tareas
+ -> Asigna 
+Responsable
+ -> Fechas LÃ­mite. 
+CronJobs
+ o 
+Schedulers
+ notifican por correo a X dÃ­as del vencimiento.
+Evidencias e Historial (Trazabilidad):
+LÃ³gica de Negocio:
+Â Toda modificaciÃ³n clave escribe en una tabla profundaÂ 
+audit_logs
+Â (UsuarioÂ 
+X
+, cambiÃ³ el atributoÂ 
+Y
+Â a valorÂ 
+Z
+Â en FechaÂ 
+W
+). Esto disimula el error humano y garantiza credibilidad ante Superintendencias.
+7. DiseÃ±o funcional de cada mÃ³dulo priorizado
+7.1 Matriz de riesgos y controles (MVP)
+LÃ³gica de Negocio:
+Â Tabla central donde 1 Proceso -> N Riesgos -> N Controles.
+Problema que resuelve:
+ organizar 
+objetivos 
+estrategicos
+, 
+procesos y riesgos, eliminar hojas de cÃ¡lculo dispersas, asegurar que cada riesgo tenga controles documentados.
+Usuario principal:
+ oficial de riesgo/compliance.
+Entradas:
+ listado de procesos,
+ listado de objetivos 
+estrategicos
+,
+ descripciones de riesgos (eventoâ€‘causaâ€‘consecuencia), controles actuales, calificaciones de probabilidad y consecuencia, umbrales de aceptaciÃ³n.
+Flujo funcional:
+ (1) Definir
+ objetivos,
+ procesos y
+/o
+ subprocesos. (2) AÃ±adir riesgos y clasificarlos. (3) Registrar controles con detalles (quÃ©, cÃ³mo, cuÃ¡ndo, 
+quien, que hacer en caso de desviaciones, 
+evidencia). (4) Valorar probabilidad y consecuencias usando la matriz RAM. (5) Generar nivel de riesgo inherente y residual. (6) Aceptar, mitigar o transferir.
+LÃ³gica de negocio:
+ cÃ¡lculo automÃ¡tico de riesgos (pÂ = probabilidad; cÂ = consecuencias; rÂ = pÂ Ã—Â c), clasificaciÃ³n en niveles (alto, medio, bajo); banderas segÃºn umbrales; herencia de controles.
+Componentes/pantallas:
+ vista de procesos, vista de riesgos por proceso (tabla editable con columnas: riesgo, causa, consecuencia, probabilidad, consecuencia, nivel de riesgo, controles), editor de controles, filtros y exportaciÃ³n.
+Reportes:
+ matriz de calor, lista de riesgos crÃ­ticos, reporte de controles faltantes, exportaciÃ³n a Excel y PDF.
+Alertas:
+ notificaciÃ³n cuando un nivel de riesgo supera el umbral; recordatorios para evaluar riesgos periÃ³dicamente.
+Trazabilidad:
+ registro de quiÃ©n crea o edita riesgos, fecha, comentario; versiones de la valoraciÃ³n.
+Integraciones deseables:
+ importaciÃ³n desde hojas de cÃ¡lculo; a futuro conexiÃ³n con ERPs para obtener datos operativos.
+VersiÃ³n bÃ¡sica vs. premium:
+ la versiÃ³n bÃ¡sica incluye un nÃºmero limitado de procesos y riesgos; la premium aÃ±ade personalizaciÃ³n de campos, carga masiva y 
+APIs
+.
+Diferenciador Premium:
+Â 
+Versionamiento
+ histÃ³rico (Tomar un "
+snapshot
+/foto" de la matriz a cierre fiscal).
+7.2 MatrizÂ RAM parametrizable (MVP)
+Problema:
+ valorar riesgos de manera consistente segÃºn probabilidad y consecuencias.
+Usuario principal:
+ oficial de riesgo.
+Entradas:
+ escalas de probabilidad (p.Â ej., 1â€“5), escalas de consecuencias por impacto (financiero, reputacional, legal), definiciones de cada escala.
+Flujo:
+ definir escalas; asignar rangos; permitir crear matrices distintas para cada tipo de evaluaciÃ³n (ej.: proyectos vs. operaciones).
+LÃ³gica:
+ calcular la categorÃ­a de riesgo (color/score) segÃºn la combinaciÃ³n; permitir modificar los parÃ¡metros en la configuraciÃ³n.
+Pantallas:
+ configuraciÃ³n de la matriz, matriz visual con celdas en colores, tabla de equivalencias.
+Reportes:
+ impresiÃ³n de la matriz, exportaciÃ³n a Excel.
+Alertas:
+ advertir cuando se modifiquen escalas; recalcular puntuaciones.
+Integraciones:
+ reutilizar parÃ¡metros en otros mÃ³dulos (planes de acciÃ³n, KRIs).
+BÃ¡sico vs. premium:
+ la versiÃ³n bÃ¡sica permite una sola matriz; la premium permite mÃºltiples matrices por proceso o unidad de negocio.
+7.3 Planes de acciÃ³n (MVP)
+LÃ³gica de Negocio:
+Â Al identificar fallas, se detona un Plan con 
+sub Tareas
+ -> Asigna 
+Responsable
+ -> Fechas LÃ­mite. 
+CronJobs
+ o 
+Schedulers
+ notifican por correo a X dÃ­as del vencimiento
+Problema:
+ asegurar seguimiento de acciones de mitigaciÃ³n y que no queden en el olvido.
+Usuario principal:
+ responsables de procesos y planes.
+Entradas:
+ riesgos asociados, acciones, fechas de inicio/fin, responsables, porcentajes de avance, evidencias.
+Flujo:
+ (1) Crear acciÃ³n vinculada a un riesgo. (2) Asignar responsable y fechas. (3) Registrar tareas y avances. (4) Enviar recordatorios. (5) Cerrar acciÃ³n con evidencia.
+LÃ³gica:
+ calcular estados (no iniciado, en progreso, retrasado, completado); relacionar acciones con beneficios esperados.
+Componentes:
+ formulario de alta de plan, lista de acciones con filtros, vista de Gantt simple, registro de entregables.
+Reportes:
+ dashboard de acciones por estado, listado de acciones vencidas, informe de beneficios alcanzados.
+Alertas:
+ notificaciones de vencimiento o retraso; avisos a responsables y superiores.
+Trazabilidad:
+ historial de cambios, comentarios y archivos; registro de aceptaciÃ³n de cierre.
+Integraciones:
+ exportar a herramientas de project management (p.Â ej., MSÂ Project o Trello) en versiones avanzadas.
+BÃ¡sico vs. premium:
+ la versiÃ³n bÃ¡sica incluye tareas simples; la premium incluye subâ€‘tareas, dependencias y seguimiento de beneficios.
+7.4 Evidencias y trazabilidad (MVP)
+Problema:
+ Excel no garantiza controles ni registros de auditorÃ­a
+[3]
+; las organizaciones necesitan demostrar quiÃ©n hizo quÃ© y cuÃ¡ndo.
+Usuarios:
+ todos los roles.
+Entradas:
+ registros de cambios en riesgos, controles y planes; archivos adjuntos; comentarios; usuario y marca de tiempo.
+Flujo:
+ cada vez que un usuario crea/modifica un registro, el sistema guarda la versiÃ³n anterior y genera un log. Permite adjuntar evidencias (documentos, capturas). Los administradores pueden auditar cambios y exportar bitÃ¡coras.
+LÃ³gica:
+ control de versiones, bitÃ¡cora de auditorÃ­a, sistema de permisos para ver historial.
+Pantallas:
+ historial por objeto (riesgo, plan); listado de archivos; buscador de auditorÃ­a.
+Reportes:
+ informe de trazabilidad por perÃ­odo o usuario, para auditorÃ­a interna/externa.
+Alertas:
+ alerta cuando se elimina un objeto o se modifica un campo clave.
+Integraciones:
+ repositorio externo (SharePoint, Google Drive) para almacenar evidencias grandes.
+BÃ¡sico vs. premium:
+ bÃ¡sico incluye registro de cambios; premium incluye conservaciÃ³n de todas las versiones y anÃ¡lisis de auditorÃ­a.
+7.5 Reportes ejecutivos y tablero (MVP)
+Problema:
+ los comitÃ©s y juntas necesitan informaciÃ³n resumida y visual.
+Usuarios:
+ gerencia, junta directiva.
+Entradas:
+ datos de los mÃ³dulos de riesgos, controles, planes.
+Flujo:
+ seleccionar periodo, filtros (proceso, nivel de riesgo), generar reportes en formato grÃ¡fico y tablas.
+LÃ³gica:
+ consolidar informaciÃ³n en dashboards de color (matriz de calor), tendencias de riesgo, avance de planes; permitir exportar a PDF/PPT para presentaciones.
+Pantallas:
+ panel con widgets (mapa de calor, grÃ¡fico de barras de riesgos por nivel, tabla de planes), botÃ³n para exportar.
+Reportes:
+ reporte para comitÃ© de riesgos, reporte para junta con resumen ejecutivo, top riesgos, estado de planes y recomendaciones.
+Alertas:
+ enviar reporte programado por correo antes de reuniones.
+Trazabilidad:
+ almacenar versiones de reportes generados.
+Integraciones:
+ conexiÃ³n a PowerÂ BI o GoogleÂ DataÂ Studio para anÃ¡lisis avanzado.
+BÃ¡sico vs. premium:
+ bÃ¡sico ofrece dashboards predefinidos; premium permite diseÃ±o de reportes personalizados y API de datos.
+7.6 KRIs/KPIs y alertas (segunda fase)
+Problema:
+ detectar seÃ±ales tempranas de incremento en la exposiciÃ³n al riesgo
+[12]
+.
+Usuarios:
+ oficial de riesgo, gerencia.
+Entradas:
+ indicadores cualitativos y cuantitativos (por ejemplo, tasa de fallas, dÃ­as de atraso, nÃºmero de reclamos), umbrales y lÃ­mites.
+Flujo:
+ definir indicadores y sus umbrales; cargar valores (manual o por interfase); asociar cada indicador a riesgos y planes. El sistema compara valores contra umbrales y dispara alertas.
+LÃ³gica:
+ clasificaciÃ³n en niveles; escalar alertas segÃºn superaciÃ³n del 70Â % y 90Â % del umbral
+[16]
+; cÃ¡lculo de tendencias.
+Reportes:
+ tableros de indicadores, alertas generadas, anÃ¡lisis de tendencias.
+Alertas:
+ notificaciones automÃ¡ticas cuando un KRI supera el umbral; escalamiento a diferentes roles segÃºn criticidad.
+Integraciones:
+ importaciÃ³n de datos desde sistemas de ERP, CRM, hojas de cÃ¡lculo; exportaciÃ³n a dashboards.
+BÃ¡sico vs. premium:
+ bÃ¡sico incluye carga manual de indicadores; premium soporta integraciones automÃ¡ticas y anÃ¡lisis predictivo.
+7.7 DiagnÃ³sticos de madurez y cumplimiento (segunda fase)
+Problema:
+ las empresas no saben quÃ© tan maduras estÃ¡n frente a estÃ¡ndares (COSO, ISOÂ 37301, ISOÂ 22301).
+Usuario:
+ consultor interno o externo, oficial de cumplimiento.
+Entradas:
+ cuestionarios de madurez, evidencias documentales, puntuaciones.
+Flujo:
+ (1) Aplicar cuestionarios predefinidos; (2) generar puntuaciÃ³n y anÃ¡lisis de brechas; (3) proponer hoja de ruta con acciones de corto, mediano y largo plazo.
+LÃ³gica:
+ puntuaciÃ³n por dominio; generaciÃ³n de radar charts; priorizaciÃ³n de acciones.
+Pantallas:
+ cuestionario interactivo, resultados grÃ¡ficos, recomendaciones.
+Reportes:
+ informe de madurez y hoja de ruta.
+Alertas:
+ recordar la periodicidad de autoevaluaciones (anual o semestral).
+Integraciones:
+ importar modelos de evaluaciÃ³n especÃ­ficos; exportar resultados a planes de acciÃ³n.
+BÃ¡sico vs. premium:
+ bÃ¡sico ofrece cuestionario estÃ¡ndar; premium permite personalizar criterios y comparar con benchmark.
+7.8 Calendario regulatorio (segunda fase)
+Problema:
+ controlar vencimientos de obligaciones regulatorias y evitar sanciones.
+Usuarios:
+ oficiales de cumplimiento y legal.
+Entradas:
+ lista de obligaciones (normas, leyes, contratos) con fechas, responsables y evidencia de cumplimiento.
+Flujo:
+ registrar obligaciones, fechas de vencimiento, responsables; enviar recordatorios; marcar cumplimiento; generar reportes.
+LÃ³gica:
+ alertas antes de vencimientos; estado (cumplido, prÃ³ximo, vencido); priorizaciÃ³n por riesgo.
+Pantallas:
+ calendario tipo agenda, listado de obligaciones, filtros.
+Reportes:
+ listado de obligaciones pendientes, reporte de cumplimiento por periodo.
+BÃ¡sico vs. premium:
+ bÃ¡sico ofrece manual; premium permite integraciÃ³n con fuentes regulatorias y actualizaciones automÃ¡ticas.
+Modelo operativo fundador
+Para alinear las capacidades y restricciones, el modelo operativo debe definir claramente roles, responsabilidades y mecanismos de gobernanza.
+Regla Cero:
+Â Ninguno de los dos debe "hacer de vendedor agresivo", eso irÃ¡ en contra de su ADN. VenderÃ¡n como "Especialistas Consultivos".
+Hugo (CEO / CTO - 
+Full time
+ progresivo):
+Responsabilidades:
+Â DiseÃ±o del esquema SQL, programaciÃ³n, seguridad, soporte y automatizaciÃ³n.
+AcciÃ³n Comercial:
+Â Ser el demostrador y consultor tÃ©cnico (El que dice "Puedo conectar esto a tu base asÃ­").
+DÃ­as 1-90:
+Â Levantamiento del MVP, configuraciÃ³n 
+cloud
+ e infraestructura de ambiente.
+Carolina (CPO / Subject Matter Expert - Noches / Fines de Semana):
+Responsabilidades:
+Â VisiÃ³n metodolÃ³gica, arquitecta de procesos, rediseÃ±a la usabilidad (
+Ux
+ Funcional). Crea la informaciÃ³n base para el MVP (datos de prueba 
+ultrarrealistas
+ que Hugo sube a la BD).
+AcciÃ³n Comercial:
+Â 
+Networking
+ sigiloso vÃ­a LinkedIn (educaciÃ³n, publicaciÃ³n de normativas). Actuar pasiva como un magneto de interÃ©s.
+RACI rÃ¡pido para decisiones:
+TecnologÃ­a o Infraestructura: Hugo (Aprobador).
+MÃ©todo, Riesgos o Producto Base: Carolina (Aprobador).
+Reglas: ReuniÃ³n sÃ¡bados en la maÃ±ana intocables. En cena familiar, temas cerrados.
+Roles y responsabilidades
+ detalladas
+Ãrea
+Responsable primario
+Acciones concretas
+MetodologÃ­a y contenido experto
+Carolina
+DiseÃ±ar la metodologÃ­a de gestiÃ³n de riesgos y cumplimiento; definir cuestionarios, escalas y plantillas; identificar estÃ¡ndares aplicables (ISOÂ 37301, ISOÂ 22301, COSO). Revisar que el software refleje las buenas prÃ¡cticas; crear guÃ­as y capacitaciones.
+DiseÃ±o funcional y producto
+Carolina (lÃ­der) con apoyo de Hugo
+Especificar requisitos de cada mÃ³dulo, diseÃ±ar flujos, priorizar backlog, validar prototipos con clientes. Preparar documentaciÃ³n de usuario.
+Arquitectura y desarrollo
+Hugo
+Seleccionar stack tecnolÃ³gico; configurar ambiente multiâ€‘tenant; desarrollar prototipo lowâ€‘code y migrar a cÃ³digo propio; implementar mÃ³dulos del MVP; gestionar base de datos e integraciones.
+ImplementaciÃ³n y soporte tÃ©cnico
+Hugo
+Liderar proyectos de implantaciÃ³n; migrar datos de los clientes; configurar roles y permisos; atender incidencias tÃ©cnicas.
+ImplementaciÃ³n funcional y capacitaciÃ³n
+Carolina
+Ejecutar diagnÃ³stico inicial; capacitar usuarios; asegurar adopciÃ³n de la metodologÃ­a; revisar resultados y proponer mejoras.
+Ventas consultivas y relaciÃ³n con clientes
+Ambos (con apoyo externo)
+Realizar reuniones de descubrimiento; aplicar diagnÃ³stico de necesidades; presentar demos; preparar propuestas; mantener relaciÃ³n de largo plazo. Carolina aporta credibilidad en riesgo; Hugo responde inquietudes tÃ©cnicas.
+AdministraciÃ³n y finanzas
+Ambos
+Definir precios, contratos, facturaciÃ³n; vigilar caja y costos.
+RACI simplificado
+Actividad
+Responsable (R)
+Aprobador (A)
+Consultado (C)
+Informado (I)
+DiseÃ±o metodolÃ³gico
+Carolina
+Ambos
+â€”
+Hugo
+Requerimientos y backlog
+Carolina
+Ambos
+Hugo
+â€”
+Arquitectura tÃ©cnica
+Hugo
+Ambos
+Carolina
+â€”
+Desarrollo del MVP
+Hugo
+Carolina
+â€”
+â€”
+DiagnÃ³stico inicial al cliente
+Carolina
+Ambos
+â€”
+Hugo
+ImplementaciÃ³n tÃ©cnica
+Hugo
+â€”
+Carolina
+Cliente
+ImplementaciÃ³n funcional
+Carolina
+â€”
+Hugo
+Cliente
+Ventas consultivas
+Ambos
+â€”
+Mentor externo
+â€”
+Soporte tÃ©cnico
+Hugo
+â€”
+â€”
+Cliente
+Soporte funcional
+Carolina
+â€”
+â€”
+Cliente
+Actividades semanales y cadencia
+ReuniÃ³n estratÃ©gica semanal (1â€“2Â h):
+ revisar avances del producto, problemas, decisiones claves, agenda comercial. Ambos fundadores deben asistir. Se documentan acuerdos.
+Backlog y priorizaciÃ³n (1Â h):
+ liderada por Carolina; se revisan historias de usuario, se priorizan y se asignan.
+Sprint de desarrollo (1â€“2Â semanas):
+ Hugo ejecuta las tareas tÃ©cnicas; Carolina revisa prototipos.
+SesiÃ³n de coâ€‘creaciÃ³n con clientes potenciales (quincenal):
+ se prueban mockups, se reciben comentarios.
+GestiÃ³n comercial (2â€“4Â h semanales):
+ preparar presentaciones, enviar correos, coordinar reuniones con prospectos.
+ReuniÃ³n de seguimiento con mentor/asesor (mensual):
+ validar estrategia, resolver bloqueos.
+Primeros 90Â dÃ­as
+Hugo:
+ 1. Investigar y seleccionar plataforma lowâ€‘code/hÃ­brida; configurar un entorno multiâ€‘tenant bÃ¡sico.
+2. Construir prototipo de matriz de riesgos y controles (tablas, formulario y exportaciÃ³n Excel).
+3. Definir arquitectura de base de datos y autenticaciÃ³n.
+4. Participar en reuniones con clientes para entender necesidades; ajustar prototipo.
+5. Documentar estÃ¡ndares de codificaciÃ³n y gobernanza tecnolÃ³gica.
+6. No comprometerse en desarrollo de mÃ³dulos avanzados antes de validar MVP.
+Carolina:
+ 1. Definir metodologÃ­a de riesgos y plantillas de valoraciÃ³n (matrizÂ RAM, planes de acciÃ³n).
+2. Redactar cuestionario de diagnÃ³stico de necesidades para reuniones comerciales.
+3. Priorizar backlog y escribir historias de usuario.
+4. Elaborar materiales de capacitaciÃ³n y brochure de la propuesta de valor.
+5. Iniciar contactos con potenciales clientes (excolegas, cooperativas) para validar interÃ©s; realizar entrevistas de descubrimiento.
+6. No divulgar informaciÃ³n sensible de su empleador ni usar su tiempo laboral para la startup; evitar firmar contratos mientras se aclara la exclusividad.
+Reglas para evitar choques
+Documentar todas las decisiones por escrito y usar un gestor de tareas compartido.
+Definir â€œdueÃ±osâ€ de cada Ã¡rea y respetar su autoridad.
+Evitar reuniones fuera del horario acordado; proteger la vida familiar.
+Revisar regularmente la carga de trabajo para que ninguno se sature.
+Usar mÃ©tricas objetivas para priorizar (valor para el cliente, esfuerzo, riesgo).
+Consultar a un tercero (mentor) si surge un desacuerdo importante.
+9. Restricciones y gobernanza
+Exclusividad de Carolina
+. Su empleador actual prohÃ­be actividades competitivas. Para no poner en riesgo su empleo se recomienda:
+Delimitar las actividades
+: Carolina se enfocarÃ¡ en diseÃ±o metodolÃ³gico, definiciÃ³n funcional y capacitaciÃ³n en horarios no laborales. Evitar acciones comerciales directas y firma de contratos.
+Formalizar acuerdos
+: suscribir un acuerdo entre Hugo y Carolina que aclare la propiedad intelectual y la participaciÃ³n; consultar a un abogado para revisar clÃ¡usulas de no competencia y confidencialidad.
+Registrar la empresa inicialmente a nombre de Hugo
+ con la posibilidad de incluir a Carolina como 
+socia una vez terminadas
+ las restricciones o con autorizaciÃ³n expresa.
+No usar recursos ni informaciÃ³n del empleador
+; construir metodologÃ­a desde cero y en entornos totalmente separados.
+Propiedad Intelectual:
+Â 
+PROHIBIDO
+Â llevar formatos, 
+excels
+, metodologÃ­as 
+copypasteadas
+ u organigramas del empleador actual 
+a la startup
+. Todo se diseÃ±a reconstruido ("
+Clean
+ Room").
+Mantener transparencia
+: si el proyecto evoluciona, informar a su empleador y buscar autorizaciÃ³n o renunciar cuando sea sostenible.
+Cumplir leyes y normas de propiedad intelectual
+: todo el contenido (metodologÃ­as, cÃ³digo) se considera propiedad de la nueva empresa y no del empleador actual.
+Gobierno corporativo y conflictos de interÃ©s
+. Elaborar un pacto de socios que establezca roles, participaciÃ³n accionaria, distribuciÃ³n de utilidades, procesos de toma de decisiones, salida de socios, cesiÃ³n de derechos y exclusividad. Definir un comitÃ© de Ã©tica para revisar potenciales clientes donde exista conflicto de interÃ©s con el empleo de Carolina. Consultar con abogados especialistas en derecho corporativo.
+10. Modelo comercial
+La "Venta EducaciÃ³n" (Consultiva):
+Estrategia de ventas para fundadores tÃ©cnicos y tÃ­midos
+Enfoque consultivo
+: adoptar un mÃ©todo de venta que priorice entender los problemas del cliente y generar confianza. SegÃºn Salesforce, la venta consultiva se basa en comprender los desafÃ­os del cliente, construir confianza y recomendar soluciones, evitando presionar un producto
+[17]
+. Esto se adapta a fundadores tÃ©cnicos, pues pueden profundizar en las necesidades y ofrecer asesorÃ­a.
+El "Gancho" Gratuito (La AuditorÃ­a Excel):
+Â Hugo contacta directivos por red cerrada (WhatsApp personal de excolegas) y LinkedIn:Â 
+"Hola. Hemos notado que muchas medianas estÃ¡n fallando en las inspecciones por problemas de trazabilidad en Excel. Estamos auditando gratuitamente o haciendo 
+Benchmarks
+ en 3 empresas en un formato relÃ¡mpago de 30 minutos. Â¿Conversamos?"
+Ofertas de valor iniciales
+:
+DiagnÃ³stico semilla
+: ofrecer un servicio de diagnÃ³stico de madurez y mapeo de riesgos a un precio fijo accesible. Esto permite entender las necesidades y demuestra expertise.
+Piloto del MVP
+: implementar el mÃ³dulo de riesgos y planes en un Ãºnico proceso del cliente por un perÃ­odo limitado (3â€“6Â meses) a precio reducido. Incluye capacitaciÃ³n y acompaÃ±amiento.
+Servicio de implementaciÃ³n
+: una vez validado el piloto, vender el proyecto completo y la suscripciÃ³n anual.
+GeneraciÃ³n de leads
+: aprovechar la red de contactos de ambos fundadores (excolaboradores de cooperativas, oilÂ &Â gas, academia) para solicitar reuniones de exploraciÃ³n. La invitaciÃ³n debe centrarse en intercambiar experiencias mÃ¡s que en vender.
+La ReuniÃ³n (Descubrimiento):
+Â No muestren cÃ³digo de inmediato. Usen 10 min para inyectar urgencia:Â 
+"Si maÃ±ana su ente supervisor le pide el control de cambios de la matriz de septiembre... Â¿CuÃ¡nto tiempo gasta juntando esos 
+Excels
+?"
+. Al final, en 5 min muestran The Risk 
+Engine
+ como el "mecanismo definitivo".
+Primera reuniÃ³n (descubrimiento
+)
+:Escuchar
+ activamente; preparar preguntas abiertas sobre procesos actuales, dolores y objetivos.
+Primera Oferta (Pilotos):
+Â Para sus primeros clientes eviten cobrar suscripciÃ³n inicial; ofrezcan 3 meses gratis con la condiciÃ³n excluyente de que usen de forma real el motor y provean 
+feedback
+ absoluto. Luego, monetizan vÃ­a 
+setup
+ para las nuevas organizaciones.
+Presentar ejemplos de riesgos mal gestionados (sin mencionar nombres) y los beneficios de profesionalizar la gestiÃ³n.
+Explicar
+ que la empresa ofrece un diagnÃ³stico sin compromiso para cuantificar las brechas.
+Diez preguntas clave para validar necesidad
+:
+Â¿QuÃ© herramientas usan actualmente para gestionar riesgos y cumplimiento?
+Â¿Con cuÃ¡ntas hojas de cÃ¡lculo trabajan?
+Â¿CuÃ¡les son los principales dolores al consolidar informaciÃ³n para la junta?
+Â¿Han sufrido sorpresas operativas o sanciones por falta de control?
+Â¿QuÃ© obligaciones regulatorias les preocupan mÃ¡s?
+Â¿QuiÃ©nes son los responsables de gestionar riesgos y controles?
+Â¿CÃ³mo priorizan acciones correctivas y realizan seguimiento?
+Â¿QuÃ© les gustarÃ­a mejorar respecto a su proceso actual?
+Â¿EstÃ¡n considerando implementar normas como ISOÂ 37301 o ISOÂ 22301?
+Â¿QuÃ© presupuesto o tiempo estarÃ­an dispuestos a invertir en profesionalizar su gestiÃ³n?
+Cierre del piloto
+: presentar al cliente un plan de trabajo detallado con alcance, tiempos y costos; enfatizar beneficios (reducciÃ³n de riesgos, eficiencia). Ofrecer precio preferencial y recordar que la fase piloto le permitirÃ¡ valorar la herramienta sin riesgo. Establecer objetivos claros y mÃ©tricas de Ã©xito (nÃºmero de riesgos registrados, acciones cerradas, informes generados).
+ComunicaciÃ³n y marketing
+: crear un sitio web profesional, publicar artÃ­culos sobre riesgos y cumplimiento (sin mencionar clientes), ofrecer webinars gratuitos sobre temas como ISOÂ 37301
+[7]
+ y KRIs
+[18]
+ para atraer prospectos. Utilizar LinkedIn para compartir aprendizajes y casos de Ã©xito.
+11. Modelo de precios
+Se propone un modelo de precios escalonado y transparente:
+Componente
+DescripciÃ³n
+Modelo de cobro
+RecomendaciÃ³n inicial
+DiagnÃ³stico
+EvaluaciÃ³n de madurez en riesgos y cumplimiento; incluye entrevistas, anÃ¡lisis de brechas y hoja de ruta.
+Tarifa fija por proyecto (dependiendo del tamaÃ±o y nÃºmero de procesos).
+Cobrar desde el inicio; sirve para financiar desarrollo y generar credibilidad.
+ImplementaciÃ³n
+ParametrizaciÃ³n de la plataforma, migraciÃ³n de datos, capacitaciÃ³n.
+Tarifa por alcance (horas o paquetes).
+Cobrar; no regalar la implementaciÃ³n para valorizar el servicio.
+SuscripciÃ³n
+Acceso a la plataforma SaaS. Precio base por mÃ³dulo activo y nÃºmero de usuarios. Se ofrece descuento por pago anual.
+Modelo mensual/anual.
+Iniciar con precio introductorio para primeros clientes (por ejemplo, US$Â 500/mes para 3 mÃ³dulos y 10Â usuarios) y ajustar con base en feedback.
+AcompaÃ±amiento
+Soporte funcional y actualizaciones normativas; incluye reuniones mensuales de seguimiento y soporte tÃ©cnico prioritario.
+Paquete recurrente (10â€“20Â % de la suscripciÃ³n).
+Incluirlo opcionalmente al inicio para garantizar Ã©xito del cliente.
+MÃ³dulo individual vs. paquete empresarial
+Permitir que los clientes adquieran mÃ³dulos especÃ­ficos o un paquete completo.
+Precio diferenciado: el paquete ofrece descuento de 20â€“30Â % frente a la suma de mÃ³dulos individuales.
+Al inicio, vender paquetes para simplificar la oferta y asegurar ingresos mÃ­nimos.
+Evitar al comienzo ofertas gratuitas prolongadas; ofrecer sÃ­ un piloto con alcance limitado y tarifa simbÃ³lica para comprometer al cliente. Ajustar precios con base en el feedback del mercado y la percepciÃ³n de valor.
+Estructura ideal para servicios boutique (No precios publicados masivos en la web).
+"
+Onboarding
+ Consultivo":
+Â $1.000 a $4.000 USD (Ãšnico pago). JustificaciÃ³n: Mapear, limpiar e inyectar su enredado mundo en Excel dentro de un ecosistema lÃ³gico. Capitaliza talento y otorga caja inmediata.
+SuscripciÃ³n SaaS Anual/Mensual:
+Â $250 - $600 USD mensuales. Cobrar por "Licencia de Empresa (Tenant)", nunca por usuario. Permitir usuarios ilimitados o por tramos fuerza que todos documenten incidentes ahÃ­, afianzando la herramienta en su tejido organizacional.
+Evitar:
+Â Venta por mÃºltiples pequeÃ±os mÃ³dulos fragmentados temporalmente; genera fatiga de venta. Vender soluciÃ³n completa MVP o Full.
+12. Plan de validaciÃ³n de 90Â dÃ­as
+Se propone un plan en tres fases con hipÃ³tesis, actividades y entregables. El objetivo es validar la necesidad, el modelo de negocio y el MVP antes de invertir en un desarrollo completo.
+FaseÂ 1Â â€“ Descubrimiento (semanasÂ 1â€“4)
+HipÃ³tesis:
+ las empresas medianas manejan riesgos con hojas de cÃ¡lculo y desean profesionalizarse; estÃ¡n dispuestas a pagar por un servicio boutique.
+Actividades:
+Elaborar cuestionario de entrevistas.
+Realizar al menos 8â€“10 entrevistas a oficiales de cumplimiento y riesgo en distintos sectores.
+Documentar flujos actuales, problemas y deseos; validar la magnitud del uso de Excel (8Â entrevistas deben confirmar uso intensivo).
+Analizar la disposiciÃ³n a pagar y el tamaÃ±o del mercado.
+Entregables:
+ informe de descubrimiento, mapa de dolores y necesidades, segmentaciÃ³n realista.
+Indicadores de avance:
+ nÃºmero de entrevistas realizadas; % de entrevistados que expresan dolor; validaciÃ³n de que al menos 70Â % usan Excel para auditorÃ­a y controles (coherente con estudio que indica que casi la mitad usa Excel
+[3]
+).
+DecisiÃ³n:
+ si menos del 50Â % de los entrevistados percibe el problema como crÃ­tico, replantear la idea.
+Mes 1: "ValidaciÃ³n del Dolor" (Sin CÃ³digo)
+DiseÃ±o conceptual, listado exhaustivo de 
+ICPs
+ (sus colegas directos e indirectos).
+Entrevistar al menos 8 personas (Auditores/Oficiales de Cumplimiento) sÃ³lo para auditar la idea (Preguntas puras: "EnsÃ©Ã±ame cÃ³mo haces esto hoy 
+hoy
+ y quÃ© detestas").
+Mes 2: "Arquitectura y Desarrollo Core"
+ImplementaciÃ³n del MVP HÃ­brido enfocado solo en Matriz, Login y Logs de Trazabilidad.
+Carga de los catÃ¡logos y set de datos de entrenamiento realista.
+Mes 3: "Prueba Beta Viva"
+Asignar instancias de pruebas a 2 interesados (Empresas piloto). ObservaciÃ³n rigurosa de donde fallÃ³ la pantalla o quÃ© dato fue confuso sin explicaciÃ³n. Ajuste.
+FaseÂ 2Â â€“ DiseÃ±o y prototipo (semanasÂ 5â€“8)
+HipÃ³tesis:
+ un prototipo funcional de la matriz de riesgos y planes de acciÃ³n demostrarÃ¡ valor al cliente y permitirÃ¡ obtener compromisos de piloto.
+Actividades:
+Seleccionar plataforma lowâ€‘code y desarrollar prototipo con mÃ³dulos de procesos, riesgos, matriz RAM y planes de acciÃ³n.
+Realizar pruebas internas y con 2â€“3 usuarios alfa (contactos de confianza).
+Ajustar la interfaz y el flujo segÃºn feedback.
+DiseÃ±ar propuestas de precios y paquetes.
+Entregables:
+ prototipo navegable; documentaciÃ³n de funcionalidades; presentaciones y demos.
+Indicadores de avance:
+ prototipo funcional en 4Â semanas; feedback positivo (al menos 70Â % de usuarios alfa consideran que reemplaza sus hojas de cÃ¡lculo); primeros prospectos interesados en un piloto.
+DecisiÃ³n:
+ si el prototipo no genera interÃ©s, iterar o simplificar. Validar la disposiciÃ³n a pagar.
+FaseÂ 3Â â€“ Piloto y validaciÃ³n (semanasÂ 9â€“12)
+HipÃ³tesis:
+ los clientes pagarÃ¡n por un piloto y obtendrÃ¡n beneficios evidentes (mejor trazabilidad, reducciÃ³n de riesgo).
+Actividades:
+Seleccionar 1â€“2 clientes piloto (de los entrevistados) y firmar un acuerdo de piloto (3Â meses).
+Implementar el prototipo en un proceso real; capacitar usuarios.
+Medir mÃ©tricas: nÃºmero de riesgos registrados, tiempo de generaciÃ³n de reportes, nÃºmero de acciones cerradas, satisfacciÃ³n de usuarios.
+Recoger testimonios y ajustar el producto.
+Preparar propuesta de contrato anual.
+Entregables:
+ reporte de piloto, caso de estudio, mejoras priorizadas.
+Indicadores de avance:
+ al menos un contrato firmado al finalizar la fase; reducciÃ³n de 50Â % en el tiempo de generaciÃ³n de reportes frente al estado inicial; satisfacciÃ³n del cliente â‰¥Â 8/10.
+DecisiÃ³n:
+ go/no go para desarrollar versiÃ³n comercial. Si los resultados son positivos y existe al menos un cliente dispuesto a pagar, avanzar a la fase de desarrollo full; de lo contrario, replantear el enfoque o cerrar el proyecto.
+13. Roadmap de 12Â meses
+Trimestre
+Objetivos principales
+Actividades
+Q1 (mesesÂ 1â€“3)
+Validar el problema y construir el prototipo
+EjecuciÃ³n del plan de validaciÃ³n de 90Â dÃ­as descrito. Definir stack tecnolÃ³gico, arquitectura multiâ€‘tenant y seleccionar plataforma lowâ€‘code. Realizar entrevistas y documentaciÃ³n.
+Q2 (mesesÂ 4â€“6)
+Lanzar MVP y obtener primeros clientes de pago
+Culminar desarrollo del MVP (mÃ³dulos 2,Â 3,Â 4,Â 7,Â 8,Â 12). Implementar piloto con 1â€“2 clientes y convertirlos en suscriptores. Refinar precios. Crear documentaciÃ³n y soportes. Iniciar registro formal de la empresa y acuerdos legales.
+Q3 (mesesÂ 7â€“9)
+Escalar ventas y desarrollar segunda fase
+Incorporar mÃ³dulos de KRIs (mod.Â 5) y calendario regulatorio (mod.Â 6). Formalizar procesos de ventas consultivas y alianzas (por ejemplo, con firmas de auditorÃ­a que quieran revender la herramienta). Aumentar base de clientes a 5â€“8 empresas. Revisar mÃ©tricas de retenciÃ³n y satisfacciÃ³n.
+Q4 (mesesÂ 10â€“12)
+Consolidar la empresa y preparar fase 
+avanzada
+Desarrollar mÃ³dulos de diagnÃ³stico automatizado (mod.Â 1) y planificar mÃ³dulos avanzados (mod.Â 9 yÂ 11). Buscar financiaciÃ³n o alianzas si se requiere expandir equipo. Revisar estrategia de expansiÃ³n a 
+otros paÃ­ses (PerÃº, Ecuador, MÃ©xico). Evaluar contrataciÃ³n de un comercial o consultor externo. Ajustar roadmap segÃºn feedback.
+Este roadmap debe mantenerse flexible. Si el mercado responde rÃ¡pidamente, se puede adelantar la segunda fase; si los ingresos tardan, se puede profundizar en el servicio de consultorÃ­a para asegurar flujo de caja.
+14. Arquitectura tecnolÃ³gica recomendada
+Requisitos clave
+: multiempresa (multiâ€‘tenant), escalable, segura, con soporte a workflows y exportaciÃ³n a Excel. Se deben respetar normativas de privacidad y tener trazabilidad.
+Opciones de stack
+Lowâ€‘code/noâ€‘code
+: Retool, Bubble, ZohoÂ Creator 
+o
+Outsystems
+. 
+Ventaja: velocidad de desarrollo y facilidad de iteraciÃ³n; ideal para el prototipo y validaciÃ³n. Desventaja: limitaciones en personalizaciÃ³n, control de la base de datos y escalabilidad.
+HÃ­brido
+: utilizar un framework de frontend (React, Vue) conectado a un backend desarrollado a medida (Node.js/TypeScript o Python/FastAPI) con una base de datos SQL. Emplear herramientas lowâ€‘code para flujos especÃ­ficos (formularios, reportes) y migrar progresivamente a cÃ³digo propio.
+Custom
+: desarrollo completo en un stack moderno (por ejemplo, React + Node.js/Express + PostgreSQL). Permite total control, optimizaciÃ³n de multiâ€‘tenancy y personalizaciÃ³n, pero implica mayor inversiÃ³n de tiempo.
+RecomendaciÃ³n
+: iniciar con un enfoque 
+hÃ­brido
+ para el MVP: usar una herramienta lowâ€‘code para prototipos rÃ¡pidos y validaciÃ³n, mientras se diseÃ±a una arquitectura modular que facilite migrar a un backend propio. En la fase comercial, evolucionar hacia una arquitectura 
+custom
+ multiâ€‘tenant con las siguientes caracterÃ­sticas:
+Frontend
+: React (Next.js) o Vue.js con TypeScript; interfaz SPA que consume APIs; permite componentes reutilizables.
+Backend
+: Node.js (
+NestJS
+) o Python (
+FastAPI
+) con 
+arquitectura
+ modular (clean architecture). 
+Exponer 
+APIs
+ REST/
+GraphQL
+. Incluir capa de servicios y repositorios.
+Base de datos
+: PostgreSQL con esquema multiâ€‘tenant (campo tenant_id en las tablas) o base de datos perâ€‘tenant segÃºn el tamaÃ±o. Utilizar herramientas de migraciÃ³n (Flyway).
+AutenticaciÃ³n y autorizaciÃ³n
+: externalizar mediante un proveedor como Auth0 o Keycloak para manejo de usuarios, roles y permisos. Soportar autenticaciÃ³n multifactor.
+Logs y trazabilidad
+: implementar logging centralizado (por ejemplo, ELK Stack) y auditorÃ­a en la base de datos para todas las transacciones.
+Reportes y dashboards
+: generar informes con librerÃ­as de visualizaciÃ³n (Chart.js, D3.js) o integrarse a herramientas como PowerÂ BI. Permitir exportar a PDF y PPT.
+Alertas y notificaciones
+: servicio de notificaciones (e-mail, webhooks) con colas de mensajes (RabbitMQ o AWSÂ SNS).
+Integraciones
+: APIs para importar/exportar datos (Excel/CSV), conexiÃ³n con ERPs o CRM mediante webhooks o ETL.
+Seguridad
+: cifrado en reposo y en trÃ¡nsito; control de acceso a nivel de row; separaciÃ³n de datos entre clientes en la base multiâ€‘tenant.
+Despliegue
+: contenedores Docker sobre nube pÃºblica (AWS, Azure, GCP) con servicios administrados (RDS para base de datos, S3 para archivos).
+Cumplimiento
+: diseÃ±ar backups y planes de continuidad alineados con ISOÂ 22301; integrar mÃ³dulos de auditorÃ­a y evidencias.
+La arquitectura multiâ€‘tenant es fundamental porque reduce costos y facilita actualizaciones: un Ãºnico conjunto de cÃ³digo puede servir a mÃºltiples clientes y las actualizaciones se aplican una vez para todos
+[14]
+. Cada tenant mantiene sus datos aislados
+[19]
+, y los recursos compartidos (servidores, seguridad) se aprovechan mejor
+[20]
+.
+15. Riesgos del proyecto y mitigantes
+Riesgo
+DescripciÃ³n
+Mitigantes
+Falta de tracciÃ³n de mercado
+El nicho puede no percibir la necesidad o no estar dispuesto a pagar.
+Realizar validaciÃ³n intensiva (entrevistas, pilotos) antes de invertir en desarrollo; ajustar propuesta de valor y precios; ofrecer diagnÃ³stico gratuito/pago como puerta de entrada.
+SobrediseÃ±o y exceso de mÃ³dulos
+Construir muchos mÃ³dulos desde el inicio diluye recursos y retrasa el lanzamiento.
+Priorizar los mÃ³dulos de mayor valor (riesgos, controles, planes, reportes, trazabilidad) y diferir mÃ³dulos avanzados. Adoptar enfoque incremental.
+DesalineaciÃ³n entre fundadores
+Diferentes expectativas y estilos pueden generar conflictos.
+Definir roles claros, RACI, reuniones semanales y normas de comunicaciÃ³n; formalizar acuerdos societarios y pactos de salida.
+Dependencia tÃ©cnica de Hugo
+Concentrar el conocimiento tÃ©cnico en una sola persona puede ser riesgoso para la continuidad.
+Documentar arquitectura y cÃ³digo; adoptar estÃ¡ndares; formar a un desarrollador junior/externo en el mediano plazo.
+RestricciÃ³n de exclusividad de Carolina
+Puede limitar acciones comerciales o de gobierno.
+Delimitar su rol a diseÃ±o y consultorÃ­a; crear estructura legal adecuada; consultar a abogados y obtener consentimiento del empleador.
+Falta de habilidades comerciales
+Ambos son tÃ©cnicos y tÃ­midos; podrÃ­a dificultar las ventas.
+Capacitarse en ventas consultivas; apoyarse en mentores o agentes comerciales externos; adoptar enfoque de contenido y networking.
+Caja insuficiente
+Ingresos tardÃ­os pueden agotar recursos.
+Mantener empleo actual de Carolina mientras se valida; buscar proyectos de consultorÃ­a tempranos; controlar gastos; considerar socios inversionistas si se demuestra tracciÃ³n.
+Competencia y obsolescencia
+ApariciÃ³n de competidores con recursos.
+Focalizarse en nichos desatendidos y en servicio premium; construir ventajas basadas en conocimiento local y relaciÃ³n personal.
+Riesgos legales y de compliance
+Mal manejo de datos personales o incumplimiento normativo.
+DiseÃ±ar seguridad por defecto; cumplir con leyes de protecciÃ³n de datos; asesorarse con abogados; establecer polÃ­ticas de privacidad y contratos claros.
+16. RecomendaciÃ³n ejecutiva final
+Camino recomendado.
+ Iniciar con un enfoque pragmÃ¡tico y validado. Construyan un 
+MVP limitado pero potente
+, centrado en la 
+matriz de riesgos y controles
+, la 
+matrizÂ RAM
+, los 
+planes de acciÃ³n
+, la 
+trazabilidad
+, los 
+reportes ejecutivos
+ y un 
+tablero bÃ¡sico
+. Este nÃºcleo atiende la mayor parte de los dolores de las empresas medianas y representa un valor diferencial inmediato frente a las hojas de cÃ¡lculo y el correo.
+Construir primero
+: Prototipo lowâ€‘code, entrevistas, piloto pagado. Validar que al menos dos clientes encuentran valor y estÃ¡n dispuestos a pagar. Formalizar la compaÃ±Ã­a y contratos cuando exista evidencia de demanda.
+No construir aÃºn
+: MÃ³dulos complejos (monitoreos preventivos, incidentes, continuidad completa, gestiÃ³n de terceros) ni funciones avanzadas de inteligencia artificial; estos serÃ¡n Ãºtiles mÃ¡s adelante, pero distraen del mercado inicial y requieren inversiÃ³n en datos e integraciones.
+Vender primero
+: DiagnÃ³stico de madurez y piloto del Motor de Riesgos. El diagnÃ³stico es la puerta de entrada; ofrece valor inmediato y prepara la implementaciÃ³n. El piloto demuestra beneficios tangibles.
+Mensaje clave
+: â€œTransformamos la gestiÃ³n de riesgos de su empresa de hojas de cÃ¡lculo dispersas a un motor centralizado y trazable. Nuestro acompaÃ±amiento experto y plataforma modular le permiten cumplir estÃ¡ndares internacionales, reducir sorpresas y presentar informes claros a la junta directiva.â€
+Nombre conceptual
+: 
+Motor de Riesgos
+ o 
+Risk Engine LatAm
+. Refuerza la idea de un nÃºcleo que impulsa todas las funciones de riesgos y cumplimiento.
+Como advisor
+: Yo recomendarÃ­a mantener la sencillez, validar cada hipÃ³tesis con clientes reales, documentar acuerdos entre los fundadores y no enamorarse de la tecnologÃ­a. El Ã©xito radica en resolver un problema crÃ­tico con un producto mÃ­nimo excelente y un servicio excepcional. A medida que se construya reputaciÃ³n y flujo de caja, podrÃ¡n aÃ±adir mÃ³dulos y expandirse a otros paÃ­ses. El camino es gradual, enfocado y disciplinado; esa disciplina tÃ©cnica que ya poseen es su ventaja competitiva.
+[1]
+ Contribution_1819_final_a.pdf
+https://laccei.org/LACCEI2025-Mexico/full-papers/Contribution_1819_final_a.pdf
+[2]
+[3]
+[4]
+[10]
+ Study Finds Spreadsheet Risk is Real; Businesses Are Aware of But Ignore the Risk | Corporate Compliance Insights
+https://www.corporatecomplianceinsights.com/study-finds-spreadsheet-risk-is-real-businesses-are-aware-of-but-ignore-the-risk/
+[5]
+[6]
+[9]
+[11]
+  Risk Management Magazine - ERM for Small to Mid-Sized Companies 
+https://www.rmmagazine.com/articles/article/2021/01/27/-ERM-for-Small-to-Mid-Sized-Companies-
+[7]
+ A Deep Dive 
+Into
+ ISO 37301: Compliance Management Systems | 
+UpGuard
+https://www.upguard.com/blog/iso-37301-guide
+[8]
+ Key Benefits of ISO 22301 for Business Continuity
+https://www.ampcuscyber.com/blogs/benefits-of-iso-22301/
+[12]
+[13]
+[16]
+[18]
+ KRIs: Key Risk Indicators - What They Are & Why Theyâ€™re Important
+https://www.optial.com/resources/key-risk-indicator-kris
+[14]
+[15]
+[19]
+[20]
+ The Benefits of SaaS Multi-Tenant Architecture | Signiant
+https://www.signiant.com/resources/articles/the-benefits-of-saas-multi-tenant-architecture/
+[17]
+ What Is Consultative Sales? 5 Guiding Principles | Salesforce
+https://www.salesforce.com/blog/consultative-sales-approach/
+SECCIÃ“N 13. ROADMAP (A 12 Meses)
+Q1:
+Â MVP de Software en ProducciÃ³n (Matriz + Trazabilidad). Levantamiento de 2 "Casos de Ã‰xito / Testimonio".
+Q2:
+Â Cierre de ventas con modelo de "
+Setup
+ alto". IncorporaciÃ³n de los MÃ³dulos Complementarios MVP (Planes acciÃ³n y Alertas a Calendarios).
+Q3:
+Â GeneraciÃ³n de Informes parametrizados (Descargas corporativas de reportes ejecutivos limpios). Inicio tracciÃ³n y campaÃ±as moderadas en nichos definidos (Cooperativas / Proveedores Petroleros).
+Q4:
+Â ConsolidaciÃ³n de ingresos, integraciÃ³n de primeros 
+KRIs
+ bÃ¡sicos, y fortalecimiento blindado jurÃ­dico del negocio para crecimiento a segunda fase en 
+LatAm
+ (ExpansiÃ³n simple dado que ISO es estÃ¡ndar).
+SECCIÃ“N 14. ARQUITECTURA TECNOLÃ“GICA (La recomendaciÃ³n para Hugo)
+Dada la base de Hugo (sistemas 
+core
+/transaccionales de 25 aÃ±os):
+Enfoque Elegido:
+Â HÃBRIDO (
+Backend
+ robusto especializado y 
+Frontend
+ Low-
+code
+)
+Base de Datos y AutenticaciÃ³n:
+Â 
+Supabase
+ (PostgreSQL en la nube).
+Â Esto le darÃ¡ tranquilidad profunda a Hugo sobre integridad transaccional, relaciones y seguridad a nivel perimetral. Puede programar lÃ³gica dura real en SQL. Cumple con exigencias de seguridad de empresas de alto requerimiento.
+Frontend y UX Backoffice:
+Â 
+Appsmith
+ o Retool.
+Â 
+Plataformas probadas de grado empresarial que le permitirÃ¡n a Hugo construir (o arrastrar) en unas semanas las tablas pesadas que interactuarÃ¡n de inmediato sobre 
+Supabase
+, 
+ahorrÃ¡ndole literalmente meses lidiando con fallos reactivos (
+React
+/CSS/
+Javascript
+ asÃ­ncrono puro), y enfocÃ¡ndose en el dato que tiene el valor.
+SECCIÃ“N 15. RIESGOS DEL PROYECTO Y MITIGANTES
+Riesgo 1: Complejidad y Sobre-IngenierÃ­a.
+Â Sentarse a construir todos los 13 mÃ³dulos antes de facturar.
+Mitigante:
+Â No se programa una lÃ­nea extra al MVP base a menos que un posible cliente jure que comprarÃ­a "solo si" lo tiene.
+Riesgo 2: FricciÃ³n por caja y expectativas de vida.
+Â Hugo presiona por ventas hoy; Carolina va precavida a 10 aÃ±os.
+Mitigante:
+Â Usen agresivamente el cobro de la "ConsultorÃ­a TÃ©cnica Integral de 
+Setup
+" (El "
+Onboarding
+ Fee") desde la Venta 
+NÂ°
+ 2 para empezar ingresos inmediatos tangibles transaccionales, mientras construyen arrastre de SaaS.
+Riesgo 3: La red no reacciona.
+Â Frustrarse intentando llamar frÃ­amente.
+Mitigante:
+Â Activar a "
+Partners
+referidores
+": Auditores externos o Firmas de ContadurÃ­a Medianas que necesitan ayudar a todos sus clientes sin gastar en software internacional inmensos. Construir revendedores indirectos.
+SECCIÃ“N 16. RECOMENDACIÃ“N EJECUTIVA FINAL DEL ADVISOR
+Ustedes tienen lo mÃ¡s difÃ­cil de conseguir en la industria SaaS B2B:Â 
+Experiencia genuina de dominio especializado
+. Un ingeniero web de 24 aÃ±os puede hacer interfaces bellas, pero fracasa modelando la matriz normativa porque no conoce las reglas del negocio. Ustedes las respiran. Eso es su ventaja asimÃ©trica inmensa.
+Mi instrucciÃ³n franca:
+Paren de pensar en un coloso de 13 mÃ³dulos.
+Â EstÃ¡n intentando competir en la concepciÃ³n con 
+MetricStream
+ y se pueden quemar de dinero y esfuerzo.
+Construyan un "Mata-Excel" inteligente y sin fricciones.
+Â La propuesta de valor dura inicial es:Â 
+"Conmigo nunca pierdes el rastro de quiÃ©n modificÃ³ cuÃ¡l riesgo, se notifica quÃ© plan venciÃ³ ayer y tienes el PDF gerencial perfecto a 1 
+click
+"
+. No se necesita mucho mÃ¡s para asegurar una venta mediana de arranque.
+El nombreÂ 
+"The Risk 
+Engine
+"
+Â es grandilocuente y asÃ©ptico (suena gringo/nube abstracta). Como ustedes irÃ¡n de frente, sugiero humanizar un poco mÃ¡s la soluciÃ³n corporativa o darle un tinte hispanoparlante prÃ¡ctico:Â 
+"ControlVivo B2B"
+,Â 
+"
+CumploSoft
+"
+,Â 
+"Risk Tracker"
+.
+Lo que yo harÃ­a:
+Â Esta misma semana, Carolina traza (literal) 4 pantallas completas y un diccionario de datos inicial en lÃ¡piz; Hugo implementa la matriz relacional en 
+Postgres
+ (
+Supabase
+). Invitan a viejos amigos a validar si eso 
+cubrirÃ­a
+ su pesadilla actual... y de ahÃ­ nace un negocio real.
