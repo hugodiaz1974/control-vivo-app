@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors');
+// Render build trigger 1.0
 const db = require('./database');
 const crypto = require('crypto');
 
