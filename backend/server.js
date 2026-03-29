@@ -270,6 +270,64 @@ app.get('/api/logs', (req, res) => {
     });
 });
 
+// ========== NUEVO: CATÁLOGOS PARAMETRIZABLES (REST CRUD) ==========
+const catalogs = ['areas', 'strategic_objectives', 'causes', 'consequences', 'risk_categories', 'processes'];
+const catalogFields = {
+    areas: ['name', 'description'],
+    strategic_objectives: ['name', 'description'],
+    causes: ['number_code', 'name', 'description'],
+    consequences: ['number_code', 'name', 'description'],
+    risk_categories: ['parent_id', 'name', 'description', 'is_subcategory'],
+    processes: ['name', 'description', 'parent_id', 'level', 'objective', 'owner_id']
+};
+
+catalogs.forEach(catalog => {
+    app.get(`/api/${catalog}`, (req, res) => {
+        db.all(`SELECT * FROM ${catalog}`, [], (err, rows) => {
+            if (err) return res.status(500).json({ error: err.message });
+            res.json(rows || []);
+        });
+    });
+
+    app.post(`/api/${catalog}`, (req, res) => {
+        const fields = catalogFields[catalog];
+        let values = [];
+        let placeholders = [];
+        let cols = [];
+        
+        fields.forEach(f => {
+            if (req.body[f] !== undefined) {
+                cols.push(f);
+                values.push(req.body[f]);
+                placeholders.push('?');
+            }
+        });
+
+        if (catalog === 'processes' && !cols.includes('id')) {
+            cols.push('id');
+            const uid = 'PROC-' + crypto.randomBytes(4).toString('hex').toUpperCase();
+            values.push(uid);
+            placeholders.push('?');
+        }
+
+        if (cols.length === 0) return res.status(400).json({error: "No data provided"});
+        
+        const q = `INSERT INTO ${catalog} (${cols.join(', ')}) VALUES (${placeholders.join(', ')})`;
+        db.run(q, values, function(err) {
+            if (err) return res.status(500).json({ error: err.message });
+            const insertedId = catalog === 'processes' ? values[cols.indexOf('id')] : this.lastID;
+            res.json({ id: insertedId, message: `${catalog} creado con éxito` });
+        });
+    });
+
+    app.delete(`/api/${catalog}/:id`, (req, res) => {
+        db.run(`DELETE FROM ${catalog} WHERE id = ?`, [req.params.id], function(err) {
+            if (err) return res.status(500).json({ error: err.message });
+            res.json({ message: `${catalog} eliminado` });
+        });
+    });
+});
+
 app.listen(PORT, () => {
     console.log(`=========================================`);
     console.log(`🛡️ ControlVivo Server (Back-end) Activo`);

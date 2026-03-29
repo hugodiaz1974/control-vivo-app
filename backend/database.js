@@ -41,6 +41,18 @@ const db = new sqlite3.Database(dbPath, (err) => {
                 created_at DATETIME DEFAULT CURRENT_TIMESTAMP
             )`);
 
+            // ========== NUEVAS TABLAS DE CATÁLOGOS PARAMETRIZABLES ==========
+            db.run(`CREATE TABLE IF NOT EXISTS areas ( id INTEGER PRIMARY KEY AUTOINCREMENT, company_id TEXT DEFAULT 'COMP-1', name TEXT NOT NULL, description TEXT, created_at DATETIME DEFAULT CURRENT_TIMESTAMP )`);
+            db.run(`CREATE TABLE IF NOT EXISTS strategic_objectives ( id INTEGER PRIMARY KEY AUTOINCREMENT, company_id TEXT DEFAULT 'COMP-1', name TEXT NOT NULL, description TEXT, created_at DATETIME DEFAULT CURRENT_TIMESTAMP )`);
+            db.run(`CREATE TABLE IF NOT EXISTS causes ( id INTEGER PRIMARY KEY AUTOINCREMENT, company_id TEXT DEFAULT 'COMP-1', number_code TEXT, name TEXT NOT NULL, description TEXT, created_at DATETIME DEFAULT CURRENT_TIMESTAMP )`);
+            db.run(`CREATE TABLE IF NOT EXISTS consequences ( id INTEGER PRIMARY KEY AUTOINCREMENT, company_id TEXT DEFAULT 'COMP-1', number_code TEXT, name TEXT NOT NULL, description TEXT, created_at DATETIME DEFAULT CURRENT_TIMESTAMP )`);
+            db.run(`CREATE TABLE IF NOT EXISTS risk_categories ( id INTEGER PRIMARY KEY AUTOINCREMENT, company_id TEXT DEFAULT 'COMP-1', parent_id INTEGER, name TEXT NOT NULL, description TEXT, is_subcategory BOOLEAN DEFAULT 0, created_at DATETIME DEFAULT CURRENT_TIMESTAMP )`);
+
+            // Migraciones al Vuelo para la tabla processes
+            db.run("ALTER TABLE processes ADD COLUMN parent_id TEXT", () => {});
+            db.run("ALTER TABLE processes ADD COLUMN level INTEGER DEFAULT 0", () => {});
+            db.run("ALTER TABLE processes ADD COLUMN objective TEXT", () => {});
+
             // Seed inicial si está vacío
             db.get("SELECT COUNT(*) as count FROM companies", (err, row) => {
                 if (row && row.count === 0) {

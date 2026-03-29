@@ -8,6 +8,7 @@ import Calendar from './pages/Calendar';
 import ActionPlans from './pages/ActionPlans';
 import ReportsLogs from './pages/ReportsLogs';
 import UsersConfig from './pages/UsersConfig';
+import Catalogs from './pages/Catalogs';
 import Login from './pages/Login';
 import './index.css';
 
@@ -29,6 +30,7 @@ function App() {
           <Route path="calendario" element={<Calendar />} />
           <Route path="planes" element={<ActionPlans />} />
           <Route path="reportes" element={<ReportsLogs />} />
+          <Route path="catalogos" element={<Catalogs />} />
           <Route path="configuracion" element={<UsersConfig />} />
         </Route>
       </Routes>
